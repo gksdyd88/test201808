@@ -1,8 +1,8 @@
 # 2018年8月テスト
 
 ## Google Sheets API
-src/main/java/test/no1s/googleSheetsApi/Main.javaを実行してください。
-APIキーを引数で渡す必要があります。
+src/main/java/test/no1s/googleSheetsApi/Main.javaを実行してください。  
+APIキーを引数で渡す必要があります。  
 
 ### Maven
 ・Mavenインストール手順  
@@ -50,6 +50,6 @@ Mavenプロジェクトを作成
 ```
 
 ## アニメーション
-WebContent/index.htmlを実行してください。
-カーソルキーでの操作のみ対応しています。
-IE11、Chromeで動作確認済みです。
+WebContent/index.htmlを実行してください。  
+カーソルキーでの操作のみ対応しています。  
+IE11、Chromeで動作確認済みです。  
